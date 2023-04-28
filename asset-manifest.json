@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BikashSingh-GitHub/Pettletask/static/css/main.9882ad87.css",
+    "main.js": "/BikashSingh-GitHub/Pettletask/static/js/main.6dd09a2d.js",
+    "index.html": "/BikashSingh-GitHub/Pettletask/index.html",
+    "main.9882ad87.css.map": "/BikashSingh-GitHub/Pettletask/static/css/main.9882ad87.css.map",
+    "main.6dd09a2d.js.map": "/BikashSingh-GitHub/Pettletask/static/js/main.6dd09a2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9882ad87.css",
+    "static/js/main.6dd09a2d.js"
+  ]
+}
